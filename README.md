@@ -1,5 +1,5 @@
-selector -> selects the 3 numbs and checks if you won
+selector.py -> selects the 3 numbs and checks if you won
 
-money -> handles money
+money.py -> handles money
 
-main -> handles flow
+main.py -> handles flow

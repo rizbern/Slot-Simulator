@@ -19,7 +19,10 @@ class Selector:
             self.res = [self.num1, self.num2, self.num3]
 
         return winCheck, self.res
-    
-result: Selector = Selector()
 
+
+
+
+
+result: Selector = Selector()
 winCheck, resultNumbers = result.play(0,[])
